@@ -25,14 +25,14 @@ _List the files, or link to them. Notebook exports, screenshots, scripts._
 
 **Project title:**
 
-**My pair partner:**
+**My pair partner:** Nina Borutyńska
 
-**Tool we had to use:**
+**Tool we had to use:** Lovable or Bolt.new (We used Bolt.new)
 
-**SDG we had to address:**
+**SDG we had to address:** SDG 4 - Quality Education
 
 **What problem does it solve, and for whom?**
-_Name a real, specific user. "Everyone" is not a user._
+_Name a real, specific user. "Everyone" is not a user._ 
 
 **What did you build?**
 _Two or three sentences. What can a user actually do with it?_
@@ -44,7 +44,7 @@ _Deployed URL, workflow export, video demo - whatever proves it works._
 _Short instructions so someone else can start it._
 
 **Who did what?**
-_Be honest about the split of work between you and your partner._
+_Be honest about the split of work between you and your partner._ We both worked on the website itself through Bolt.new and the presentation. Then I did the README and Nina did the Ethical Reflection
 
 **Ethical reflection - what are the risks of your tool? Who could it harm?**
 _Every hackathon requires this. One honest paragraph beats three vague ones._
