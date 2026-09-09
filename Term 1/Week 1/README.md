@@ -36,24 +36,29 @@ Reloop supports SDG 4 – Quality Education, especially the goal of making educa
 
 **What problem does it solve, and for whom?**
 _Name a real, specific user. "Everyone" is not a user._ 
-Mathematics is considered a difficult subject by many secondary-school students, and students may struggle to judge whether they truly understand a topic or what their current mathematical level is. This is especially relevant after COVID-19: according to the OECD PISA 2022 results, the average mathematics score of 15-year-olds across OECD countries fell by almost 15 points between 2018 and 2022 [1].
+Mathematics is considered a difficult subject by many secondary-school students, and students may struggle to judge whether they truly understand a topic or what their current mathematical level is. Many existing practice tools are either require an account/subscription, or do not give students a quick way to test themselves at a level that matches their ability. Reloop aims to solve this by offering simple, accessible quizzes that lets students choose a difficulty level and immediately test their mathematical skills. This is especially relevant after COVID-19: according to the OECD PISA 2022 results, the average mathematics score of 15-year-olds across OECD countries fell by almost 15 points between 2018 and 2022 [1].
+
 Reloop is therefore primarily intended for secondary-school students who want additional mathematics practice and a simple way to test their skills. Furthermore this tool can be used by anyone else who just want to practice maths, but at the end of the day this is mostly focussed towards secondary-school students.
 
 [1] https://www.oecd.org/en/data/dashboards/pisa-education-and-skills.html
 
 **What did you build?**
 _Two or three sentences. What can a user actually do with it?_
+
 Reloop is a free mathematics quiz website with three difficulty levels: Beginner, Intermediate and Advanced. Users can complete a quiz, receive a score and see which questions they answered incorrectly, allowing them to identify what subjects they struggle with. The website requires no account, payment or subscription and has a simple interface so users can start practising almost immediately.
 
 **Link to the live thing (if any):**
 _Deployed URL, workflow export, video demo - whatever proves it works._
+
 https://reloop-math-fro-mch2.bolt.host/
 
 **How do I run it?**
 _Short instructions so someone else can start it._
 
 **Who did what?**
-_Be honest about the split of work between you and your partner._ We both worked on the website itself through Bolt.new and the presentation. Then I did the README and Nina did the Ethical Reflection
+_Be honest about the split of work between you and your partner._ 
+
+We both worked on the website itself through Bolt.new and the presentation. Then I did the README and Nina did the Ethical Reflection
 
 **Ethical reflection - what are the risks of your tool? Who could it harm?**
 _Every hackathon requires this. One honest paragraph beats three vague ones._
