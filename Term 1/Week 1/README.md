@@ -49,7 +49,6 @@ Reloop is a free mathematics quiz website with three difficulty levels: Beginner
 
 **Link to the live thing (if any):**
 _Deployed URL, workflow export, video demo - whatever proves it works._
-
 https://reloop-math-fro-mch2.bolt.host/
 
 **How do I run it?**
@@ -57,7 +56,6 @@ _Short instructions so someone else can start it._
 
 **Who did what?**
 _Be honest about the split of work between you and your partner._ 
-
 We both worked on the website itself through Bolt.new and the presentation. Then I did the README and Nina did the Ethical Reflection
 
 **Ethical reflection - what are the risks of your tool? Who could it harm?**
