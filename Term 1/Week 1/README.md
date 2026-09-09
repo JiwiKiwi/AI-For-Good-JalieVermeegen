@@ -44,8 +44,7 @@ Reloop is therefore primarily intended for secondary-school students who want ad
 
 **What did you build?**
 _Two or three sentences. What can a user actually do with it?_
-
-Reloop is a free mathematics quiz website with three difficulty levels: Beginner, Intermediate and Advanced. Users can complete a quiz, receive a score and see which questions they answered incorrectly, allowing them to identify what subjects they struggle with. The website requires no account, payment or subscription and has a simple interface so users can start practising almost immediately.
+Reloop is a free mathematics quiz website made with AI that has three difficulty levels: Beginner, Intermediate and Advanced. Users can select a quiz from one of the 3 levels, pick one of the three topics provided per level and go through the quiz. Once they complete a quiz, they receive a score and see which questions they answered incorrectly, allowing them to identify areas that may require more practice. At the end they get the option to redo the quiz or return to the frontpage and select another quiz if they want to. The website requires no account, payment or subscription and has a simple interface so users can start practising almost immediately.
 
 **Link to the live thing (if any):**
 _Deployed URL, workflow export, video demo - whatever proves it works._
