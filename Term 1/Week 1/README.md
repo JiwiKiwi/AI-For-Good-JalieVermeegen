@@ -81,8 +81,8 @@ _Every hackathon requires this. One honest paragraph beats three vague ones._
 ## 4. Reflection
 
 **What is the most important thing I learned this week?**
-I learned how to effectively make a plan for a big prompt to be frugal with the tokens that are given for free. Further I went more indepth about the thought process I need to have when I ask AI something to get the most effective answers from AI and thus waste less computing power from the AI/Their datacenters
+I learned how to effectively make a plan for a big prompt to be frugal with the tokens that are given for free. Further I went more indepth about the thought process I need to have when I ask AI something to get the most effective answers from AI and thus waste less computing power from the AI/Their datacenters. Then the involvement of SDG 4 made me think more indepth about how my AI can help specific target groups, think about the pros and cons and design my website around this target group
 
 **Where does this connect to "AI for Good"?**
 _One concrete link to ethics, sustainability or social impact._
-This connects to AI for Good because learning how to use tokens efficiently and ask AI effective questions can help reduce unnecessary use of resources. This makes my use of AI more sustainable and responsible.
+This connects to AI for Good because learning how to use tokens efficiently and ask AI effective questions can help reduce unnecessary use of resources. This makes my use of AI more sustainable and responsible. Further with the involvement with the SDG it made me think more indepth about how my AI products can help groups of people
