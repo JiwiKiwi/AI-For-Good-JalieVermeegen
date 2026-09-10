@@ -36,9 +36,9 @@ Reloop supports SDG 4 – Quality Education, especially the goal of making educa
 
 **What problem does it solve, and for whom?**
 _Name a real, specific user. "Everyone" is not a user._ 
-Mathematics is considered a difficult subject by many secondary-school students, and students may struggle to judge whether they truly understand a topic or what their current mathematical level is. Many existing practice tools are either require an account/subscription, or do not give students a quick way to test themselves at a level that matches their ability. Reloop aims to solve this by offering simple, accessible quizzes that lets students choose a difficulty level and immediately test their mathematical skills. This is especially relevant after COVID-19: according to the OECD PISA 2022 results, the average mathematics score of 15-year-olds across OECD countries fell by almost 15 points between 2018 and 2022 [1].
+Mathematics is considered a difficult subject by many secondary-school students, and students may struggle to judge whether they truly understand a topic or what their current mathematical level is. Many existing practice tools are either require an account/subscription, or do not give students a quick way to test themselves at a level that matches their ability. A simple, level-based quiz was chosen over a full course or tutoring platform because it lets students test themselves instantly without committing to a longer learning path. This is especially relevant after COVID-19: according to the OECD PISA 2022 results, the average mathematics score of 15-year-olds across OECD countries fell by almost 15 points between 2018 and 2022 [1].
 
-Reloop is therefore primarily intended for secondary-school students who want additional mathematics practice and a simple way to test their skills. Furthermore this tool can be used by anyone else who just want to practice maths, but at the end of the day this is mostly focussed towards secondary-school students.
+Reloop is therefore primarily intended for secondary-school students who want additional mathematics practice and a simple way to test their skills. Furthermore this tool can be used by anyone else who just want to practice maths, but at the end of the day this is mostly focussed towards secondary-school students. It's not intended for younger children who need step-by-step teaching, or for students who don't read English well.
 
 [1] https://www.oecd.org/en/data/dashboards/pisa-education-and-skills.html
 
@@ -60,6 +60,9 @@ We both worked on the website itself through Bolt.new and the presentation. Then
 
 **Ethical reflection - what are the risks of your tool? Who could it harm?**
 _Every hackathon requires this. One honest paragraph beats three vague ones._
+This ethical reflection looks at the product built during the first hackathon of the minor AI for Good. The website is a math quiz for high-school students, with three levels to practice. The app assumes a lot about its users. It needs a device and stable internet, so it excludes students without one. Everything is in English, which excludes students who don't read it well. Open answers are checked by matching the expected text, so a correct answer written differently might be marked wrong, and there's no support for screen readers, high contrast, or other accessibility needs. Students also pick their own level, assuming they can judge it accurately, and there's no help if they get stuck, just guessing or waiting for the result.
+The tool could also be misused. Since the results page shows the correct answer for every wrong one, a student could type random answers just to collect the answer key instead of actually practicing, giving a false sense of understanding and possibly turning it into a homework cheat sheet. Showing a level like "Beginner" to a teacher could also make a student feel bad over just one quiz, and once AI is added, a wrong explanation could teach students something incorrect if they trust it blindly. To reduce these risks, we could accept more answer formats, add simpler language or translation, delay showing the correct answer behind an extra step, and make clear this tool is for practice, not grading.
+
 
 ### Checklist
 - [ ] Prototype code (or export / workflow file) is in `hackathon/`
