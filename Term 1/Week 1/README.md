@@ -52,6 +52,8 @@ https://reloop-math-fro-mch2.bolt.host/
 
 **How do I run it?**
 _Short instructions so someone else can start it._
+Using the link (Easy): https://reloop-math-fro-mch2.bolt.host/
+Locally hosting it:
 
 **Who did what?**
 _Be honest about the split of work between you and your partner._ 
