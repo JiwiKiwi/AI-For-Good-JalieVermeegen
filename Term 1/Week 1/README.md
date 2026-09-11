@@ -82,6 +82,8 @@ The tool could also be misused. Since the results page shows the correct answer 
 
 **How did it go? What would I do differently next time?**
 
+I think I was too nervous, I forgot to mention where I got my sources from and I feel like I didnt explain properly why the SDG was connected to the idea. Since the tool is meant to give people an easy and fast way to gauge their level and to see where they might need even more practice. Further we forgot to add that the tool is for free and requires no login/subscription etc for privacy purposes.
+
 ---
 
 ## 4. Reflection
